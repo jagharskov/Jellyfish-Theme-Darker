@@ -1,8 +1,8 @@
 /* Jellyfish Dark Theme */
 :root {
-    --primary-r: 160;
-    --primary-g: 160;
-    --primary-b: 160;
+    --primary-r: 220;
+    --primary-g: 220;
+    --primary-b: 220;
     --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
     --secondary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.6);
     --primary-background-transparent: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.03);
